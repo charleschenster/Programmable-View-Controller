@@ -1,0 +1,1524 @@
+TProgrammable
+v7
+r0
+t317803777.578800
+cCheck dependencies
+cProcessInfoPlistFile /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Info.plist Programmable-Info.plist
+cCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/MainWindow.xib
+cCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/ProgrammableViewController.xib
+cCpResource build/Debug-iphonesimulator/Programmable.app/greenButton.png greenButton.png
+cCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.xib
+cProcessPCH /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch.gch Programmable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/main.o /Users/charleschen/Dropbox/Programs/Programmable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableAppDelegate.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableViewController.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressor.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataDecompressor.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCache.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIInputStream.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueue.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/Reachability.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSObject+SBJSON.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSString+SBJSON.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonBase.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonParser.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonWriter.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgView.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004B2B4CD600000000000004CF
+t1261128918
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004B2B4C170000000000000A99
+t1261128727
+s2713
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004B2B4DDB00000000000000C7
+t1261129179
+s199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B2B537F000000000000007D
+t1261130623
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004B2B4C6C00000000000004F5
+t1261128812
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004B2B4C490000000000001A78
+t1261128777
+s6776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004748A1090000000000000DE2
+t1195942153
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/arpa/inet.h
+c00000000464386D70000000000001533
+t1178830551
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/ifaddrs.h
+c00000000464386E00000000000000782
+t1178830560
+s1922
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/netdb.h
+c00000000464386E20000000000002F2B
+t1178830562
+s12075
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/netinet/in.h
+c00000000476344B700000000000052AA
+t1197687991
+s21162
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/netinet6/in6.h
+c00000000476344BA0000000000004970
+t1197687994
+s18800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/sys/socket.h
+c00000000476344C000000000000055F1
+t1197688000
+s22001
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/unistd.h
+c000000004748A13300000000000053FF
+t1195942195
+s21503
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/zlib.h
+c000000004748ECC900000000000102A5
+t1195961545
+s66213
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.h
+c000000004D41147700000000000000DB
+t1296110711
+s219
+i<UIKit/UIKit.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m
+c000000004D411530000000000000094A
+t1296110896
+s2378
+i"ProgView.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.xib
+c000000004D4114770000000000001853
+t1296110711
+s6227
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.h
+c000000004D410FBD00000000000001FF
+t1296109501
+s511
+i<UIKit/UIKit.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m
+c000000004D410FBE00000000000002BE
+t1296109502
+s702
+i"ProgrammableAppDelegate.h"
+i"ProgrammableViewController.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h
+c000000004D4114AC0000000000000113
+t1296110764
+s275
+i<UIKit/UIKit.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m
+c000000004D4115330000000000000A8B
+t1296110899
+s2699
+i"ProgrammableViewController.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/../ProgView.m
+c000000004D411477000000000000058B
+t1296110711
+s1419
+i"ProgView.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/../ProgView.xib
+c000000004D4114770000000000001853
+t1296110711
+s6227
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.h
+c000000004D3B091C0000000000000453
+t1295714588
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m
+c000000004D3B091C0000000000003DED
+t1295714588
+s15853
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASICacheDelegate.h
+c000000004D3B091C00000000000011D1
+t1295714588
+s4561
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.h
+c000000004D3B091C000000000000072C
+t1295714588
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m
+c000000004D3B091C0000000000001AAE
+t1295714588
+s6830
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.h
+c000000004D3B091C00000000000006A3
+t1295714588
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m
+c000000004D3B091C0000000000001969
+t1295714588
+s6505
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.h
+c000000004D3B091C0000000000000804
+t1295714588
+s2052
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m
+c000000004D3B091C000000000000420D
+t1295714588
+s16909
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.h
+c000000004D3B091C0000000000000A6D
+t1295714588
+s2669
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m
+c000000004D3B091C0000000000002B6A
+t1295714588
+s11114
+i"ASIFormDataRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.h
+c000000004D3B091C000000000000A9CB
+t1295714588
+s43467
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m
+c000000004D3B091C0000000000028476
+t1295714588
+s164982
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequestConfig.h
+c000000004D3B091C00000000000003B0
+t1295714588
+s944
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequestDelegate.h
+c000000004D3B091C000000000000063E
+t1295714588
+s1598
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.h
+c000000004D3B091C00000000000003C9
+t1295714588
+s969
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m
+c000000004D3B091C0000000000000C14
+t1295714588
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.h
+c000000004D3B091C000000000000120D
+t1295714588
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m
+c000000004D3B091C0000000000002C8D
+t1295714588
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIProgressDelegate.h
+c000000004D3B091C0000000000000678
+t1295714588
+s1656
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIWebPageRequest/ASIWebPageRequest.h
+c000000004D3B091C0000000000000DF6
+t1295714588
+s3574
+i"ASIHTTPRequest.h"
+i<libxml/HTMLparser.h>
+i<libxml/xmlsave.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIWebPageRequest/ASIWebPageRequest.m
+c000000004D3B091C000000000000786C
+t1295714588
+s30828
+i"ASIWebPageRequest.h"
+i"ASINetworkQueue.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesCDNRequest.h
+c000000004D3B091C0000000000000735
+t1295714588
+s1845
+i"ASICloudFilesRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesCDNRequest.m
+c000000004D3B091C00000000000013A0
+t1295714588
+s5024
+i"ASICloudFilesCDNRequest.h"
+i"ASICloudFilesContainerXMLParserDelegate.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainer.h
+c000000004D3B091C0000000000000341
+t1295714588
+s833
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainer.m
+c000000004D3B091C00000000000001F4
+t1295714588
+s500
+i"ASICloudFilesContainer.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainerRequest.h
+c000000004D3B091C00000000000005C2
+t1295714588
+s1474
+i"ASICloudFilesRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainerRequest.m
+c000000004D3B091C0000000000001183
+t1295714588
+s4483
+i"ASICloudFilesContainerRequest.h"
+i"ASICloudFilesContainer.h"
+i"ASICloudFilesContainerXMLParserDelegate.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainerXMLParserDelegate.h
+c000000004D3B091C0000000000000306
+t1295714588
+s774
+i"ASICloudFilesRequest.h"
+i"ASINSXMLParserCompat.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m
+c000000004D3B091C0000000000000A4D
+t1295714588
+s2637
+i"ASICloudFilesContainerXMLParserDelegate.h"
+i"ASICloudFilesContainer.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesObject.h
+c000000004D3B091C0000000000000258
+t1295714588
+s600
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesObject.m
+c000000004D3B091C00000000000001E5
+t1295714588
+s485
+i"ASICloudFilesObject.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesObjectRequest.h
+c000000004D3B091C0000000000000DE8
+t1295714588
+s3560
+i"ASICloudFilesRequest.h"
+i"ASINSXMLParserCompat.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesObjectRequest.m
+c000000004D3B091C0000000000002957
+t1295714588
+s10583
+i"ASICloudFilesObjectRequest.h"
+i"ASICloudFilesObject.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesRequest.h
+c000000004D3B091C0000000000000434
+t1295714588
+s1076
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesRequest.m
+c000000004D3B091C0000000000000DAB
+t1295714588
+s3499
+i"ASICloudFilesRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.h
+c000000004D3B091C0000000000001D0E
+t1295714588
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m
+c000000004D3B091C0000000000005E0C
+t1295714588
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASINSXMLParserCompat.h
+c000000004D3B091C0000000000000331
+t1295714588
+s817
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3Bucket.h
+c000000004D3B091C00000000000003CC
+t1295714588
+s972
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3Bucket.m
+c000000004D3B091C00000000000002FC
+t1295714588
+s764
+i"ASIS3Bucket.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3BucketObject.h
+c000000004D3B091C000000000000060E
+t1295714588
+s1550
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3BucketObject.m
+c000000004D3B091C0000000000000787
+t1295714588
+s1927
+i"ASIS3BucketObject.h"
+i"ASIS3ObjectRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3BucketRequest.h
+c000000004D3B091C0000000000000A2E
+t1295714588
+s2606
+i<Foundation/Foundation.h>
+i"ASIS3Request.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3BucketRequest.m
+c000000004D3B091C0000000000001817
+t1295714588
+s6167
+i"ASIS3BucketRequest.h"
+i"ASIS3BucketObject.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3ObjectRequest.h
+c000000004D3B091C0000000000000E1C
+t1295714588
+s3612
+i<Foundation/Foundation.h>
+i"ASIS3Request.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3ObjectRequest.m
+c000000004D3B091C00000000000014CF
+t1295714588
+s5327
+i"ASIS3ObjectRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3Request.h
+c000000004D3B091C00000000000010E6
+t1295714588
+s4326
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASINSXMLParserCompat.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3Request.m
+c000000004D3B091C00000000000028C7
+t1295714588
+s10439
+i"ASIS3Request.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3ServiceRequest.h
+c000000004D3B091C0000000000000325
+t1295714588
+s805
+i<Foundation/Foundation.h>
+i"ASIS3Request.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3ServiceRequest.m
+c000000004D3B091C0000000000000A4B
+t1295714588
+s2635
+i"ASIS3ServiceRequest.h"
+i"ASIS3Bucket.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASICloudFilesRequestTests.h
+c000000004D3B091C000000000000012E
+t1295714588
+s302
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASICloudFilesRequestTests.m
+c000000004D3B091C00000000000031AE
+t1295714588
+s12718
+i"ASICloudFilesRequestTests.h"
+i"ASICloudFilesContainer.h"
+i"ASICloudFilesObject.h"
+i"ASICloudFilesRequest.h"
+i"ASICloudFilesContainerRequest.h"
+i"ASICloudFilesObjectRequest.h"
+i"ASICloudFilesCDNRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIDataCompressorTests.h
+c000000004D3B091C000000000000010E
+t1295714588
+s270
+i<Foundation/Foundation.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIDataCompressorTests.m
+c000000004D3B091C00000000000017AB
+t1295714588
+s6059
+i"ASIDataCompressorTests.h"
+i"ASIDataCompressor.h"
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIDownloadCacheTests.h
+c000000004D3B091C0000000000000149
+t1295714588
+s329
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIDownloadCacheTests.m
+c000000004D3B091C0000000000004BBF
+t1295714588
+s19391
+i"ASIDownloadCacheTests.h"
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIFormDataRequestTests.h
+c000000004D3B091C00000000000001DB
+t1295714588
+s475
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIFormDataRequestTests.m
+c000000004D3B091C000000000000329B
+t1295714588
+s12955
+i"ASIFormDataRequestTests.h"
+i"ASIFormDataRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIHTTPRequestTests.h
+c000000004D3B091C00000000000007B7
+t1295714588
+s1975
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIHTTPRequestTests.m
+c000000004D3B091C0000000000013B24
+t1295714588
+s80676
+i"ASIHTTPRequestTests.h"
+i"ASIHTTPRequest.h"
+i"ASINetworkQueue.h"
+i"ASIFormDataRequest.h"
+i<SystemConfiguration/SystemConfiguration.h>
+i<unistd.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASINetworkQueueTests.h
+c000000004D3B091C000000000000092B
+t1295714588
+s2347
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASINetworkQueueTests.m
+c000000004D3B091C000000000000A9B5
+t1295714588
+s43445
+i"ASINetworkQueueTests.h"
+i"ASIHTTPRequest.h"
+i"ASINetworkQueue.h"
+i"ASIFormDataRequest.h"
+i<SystemConfiguration/SystemConfiguration.h>
+i<unistd.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIS3RequestTests.h
+c000000004D3B091C0000000000000267
+t1295714588
+s615
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIS3RequestTests.m
+c000000004D3B091C0000000000008B0D
+t1295714588
+s35597
+i"ASIS3RequestTests.h"
+i"ASINetworkQueue.h"
+i"ASIS3BucketObject.h"
+i"ASIS3ObjectRequest.h"
+i"ASIS3BucketRequest.h"
+i"ASIS3ServiceRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASITestCase.h
+c000000004D3B091C0000000000000196
+t1295714588
+s406
+i<Foundation/Foundation.h>
+i"GHUnit.h"
+i<GHUnit/GHUnit.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASITestCase.m
+c000000004D3B091C00000000000002C3
+t1295714588
+s707
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIWebPageRequestTests.h
+c000000004D3B091C000000000000010E
+t1295714588
+s270
+i<Foundation/Foundation.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIWebPageRequestTests.m
+c000000004D3B091C00000000000005D8
+t1295714588
+s1496
+i"ASIWebPageRequestTests.h"
+i"ASIWebPageRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/BlocksTests.h
+c000000004D3B091C00000000000000F8
+t1295714588
+s248
+i<Foundation/Foundation.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/BlocksTests.m
+c000000004D3B091C0000000000000EA9
+t1295714588
+s3753
+i"BlocksTests.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ClientCertificateTests.h
+c000000004D3B091C000000000000027F
+t1295714588
+s639
+i<Foundation/Foundation.h>
+i<Security/Security.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ClientCertificateTests.m
+c000000004D3B091C0000000000000CAD
+t1295714588
+s3245
+i"ClientCertificateTests.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/GHUnitTestMain.m
+c000000004D3B091C0000000000000D35
+t1295714588
+s3381
+i<Foundation/Foundation.h>
+i<GHUnit/GHUnit.h>
+i<GHUnit/GHTestApp.h>
+i<GHUnit/GHTesting.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/PerformanceTests.h
+c000000004D3B091C00000000000002E6
+t1295714588
+s742
+i<Foundation/Foundation.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/PerformanceTests.m
+c000000004D3B091C0000000000001AE7
+t1295714588
+s6887
+i"PerformanceTests.h"
+i"ASIHTTPRequest.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ProxyTests.h
+c000000004D3B091C00000000000002F4
+t1295714588
+s756
+i<Foundation/Foundation.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ProxyTests.m
+c000000004D3B091C0000000000001D30
+t1295714588
+s7472
+i"ProxyTests.h"
+i"ASIHTTPRequest.h"
+i"ASINetworkQueue.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/StressTests.h
+c000000004D3B091C00000000000003EE
+t1295714588
+s1006
+i<Foundation/Foundation.h>
+i"ASITestCase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/StressTests.m
+c000000004D3B091C00000000000015D7
+t1295714588
+s5591
+i"StressTests.h"
+i"ASIHTTPRequest.h"
+i"ASINetworkQueue.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.h
+c000000004C9D4166000000000000085F
+t1285374310
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m
+c000000004C9D4166000000000000077D
+t1285374310
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.h
+c000000004C9D416600000000000007F0
+t1285374310
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m
+c000000004C9D4166000000000000075D
+t1285374310
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.h
+c000000004C9D41660000000000000B82
+t1285374310
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m
+c000000004C9D41660000000000000AC1
+t1285374310
+s2753
+i"SBJsonBase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.h
+c000000004C9D41660000000000000C8F
+t1285374310
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m
+c000000004C9D41660000000000003B7A
+t1285374310
+s15226
+i"SBJsonParser.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.h
+c000000004C9D416600000000000011D9
+t1285374310
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m
+c000000004C9D4166000000000000206D
+t1285374310
+s8301
+i"SBJsonWriter.h"
+
+N/Users/charleschen/Dropbox/Programs/Programmable/MainWindow.xib
+c000000004D410FBE0000000000002683
+t1296109502
+s9859
+
+N/Users/charleschen/Dropbox/Programs/Programmable/ProgrammableViewController.xib
+c000000004D410FBE0000000000001A59
+t1296109502
+s6745
+
+N/Users/charleschen/Dropbox/Programs/Programmable/Programmable_Prefix.pch
+c000000004D410FBE00000000000000C1
+t1296109502
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app.dSYM
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Info.plist
+t1296110902
+s613
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/MainWindow.nib
+t1296110918
+s1520
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/PkgInfo
+t1296110902
+s8
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/ProgView.nib
+t1296110920
+s1106
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Programmable
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/ProgrammableViewController.nib
+t1296110918
+s1151
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/greenButton.png
+t1296110918
+s4542
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1296110964
+s89160
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesCDNRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesContainer.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesContainerRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesContainerXMLParserDelegate.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesObject.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesObjectRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesRequestTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressor.o
+t1296110958
+s21280
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressorTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataDecompressor.o
+t1296110958
+s21212
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCache.o
+t1296110958
+s55016
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCacheTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequest.o
+t1296110959
+s42316
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequestTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequest.o
+t1296110976
+s378916
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequestTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIInputStream.o
+t1296110964
+s24928
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueue.o
+t1296110965
+s51008
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueueTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3Bucket.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3BucketObject.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3BucketRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3ObjectRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3Request.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3RequestTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3ServiceRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASITestCase.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIWebPageRequest.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIWebPageRequestTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/BlocksTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ClientCertificateTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/GHUnitTestMain.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSObject+SBJSON.o
+t1296110966
+s7008
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSString+SBJSON.o
+t1296110977
+s7004
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/PerformanceTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgView.o
+t1296110977
+s33908
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/Programmable.LinkFileList
+c000000004D4115350000000000000AC5
+t1296110901
+s2757
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableAppDelegate.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableViewController.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProxyTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/Reachability.o
+t1296110965
+s30500
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonBase.o
+t1296110977
+s12144
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonParser.o
+t1296110977
+s31008
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonWriter.o
+t1296110977
+s24040
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/StressTests.o
+t2
+s0
+
+N/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/main.o
+t1296110956
+s5968
+
+N/Users/charleschen/Dropbox/Programs/Programmable/greenButton.png
+c000000004D3E46ED00000000000011BE
+t1295927021
+s4542
+
+N/Users/charleschen/Dropbox/Programs/Programmable/main.m
+c000000004D410FBE0000000000000170
+t1296109502
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch.gch
+t1296110953
+s13026768
+
+NProgrammable-Info.plist
+c000000004D410FBE000000000000038D
+t1296109502
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317803701#317803701#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803756.355029
+e317803764.469874
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m317803756#317803764#0(0"0(0#0#86"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m4300911832#2119"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIAuthenticationDialog.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesCDNRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesCDNRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesContainer.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesContainerRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainerRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesContainerXMLParserDelegate.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesContainerXMLParserDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesObject.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesObjectRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesObjectRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/CloudFiles/ASICloudFilesRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASICloudFilesRequestTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASICloudFilesRequestTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressor.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803756.853102
+e317803758.289409
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m317803756#317803758#0(0"0(0#0#80"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m4300911832#2107"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataCompressor.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressor.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataCompressorTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIDataCompressorTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataDecompressor.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803758.289567
+e317803758.581558
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m317803758#317803758#0(0"0(0#0#82"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m4300911832#2111"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDataDecompressor.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCache.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803758.581663
+e317803758.824429
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m317803758#317803758#0(0"0(0#0#79"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m4300911832#2105"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIDownloadCache.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIDownloadCacheTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIDownloadCacheTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803758.825472
+e317803759.099644
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m317803758#317803759#0(0"0(0#0#81"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m4300911832#2109"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIFormDataRequest.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIFormDataRequestTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIFormDataRequestTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803759.099757
+e317803777.057566
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m317803759#317803777#0(0"0(0#0#77"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m4300911832#2101"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIHTTPRequest.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIHTTPRequestTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIHTTPRequestTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIInputStream.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803764.470026
+e317803764.651795
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIInputStream.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m317803764#317803764#0(0"0(0#0#77"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m4300911832#2101"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIInputStream.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIInputStream.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueue.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803764.651908
+e317803765.232798
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m317803764#317803765#0(0"0(0#0#78"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m4300911832#2103"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASINetworkQueue.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASINetworkQueueTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASINetworkQueueTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3Bucket.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3Bucket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3BucketObject.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3BucketObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3BucketRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3BucketRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3ObjectRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3ObjectRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3Request.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3Request.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3RequestTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIS3RequestTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIS3ServiceRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/S3/ASIS3ServiceRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASITestCase.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASITestCase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIWebPageRequest.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/ASIWebPageRequest/ASIWebPageRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ASIWebPageRequestTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ASIWebPageRequestTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/BlocksTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/BlocksTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ClientCertificateTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ClientCertificateTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/GHUnitTestMain.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/GHUnitTestMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSObject+SBJSON.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803765.855943
+e317803766.134388
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m317803765#317803767#0(0"0(0#0#83"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m4300911832#2108"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSObject+SBJSON.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSString+SBJSON.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803777.057825
+e317803777.175340
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m317803777#317803777#0(0"0(0#0#83"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m4300911832#2108"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/NSString+SBJSON.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/PerformanceTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/PerformanceTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgView.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803777.497277
+e317803777.578708
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgView.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m: In function '-[ProgView loadView]':
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: 'UIImage' may not respond to '-stretchableImageWithLeftCapWidth:topCapHeight:forState:'
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: (Messages without a matching method signature
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: will be assumed to return 'id' and accept
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: '...' as arguments.)
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: 'UIButton' may not respond to '-setBackgroundImage:'
+lSLF07#2@75"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m317803777#317803777#0(760"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m: In function '-[ProgView loadView]':/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: 'UIImage' may not respond to '-stretchableImageWithLeftCapWidth:topCapHeight:forState:'/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: (Messages without a matching method signature/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: will be assumed to return 'id' and accept/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: '...' as arguments.)/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m:24: warning: 'UIButton' may not respond to '-setBackgroundImage:'3(22@87"'UIImage' may not respond to '-stretchableImageWithLeftCapWidth:topCapHeight:forState:'317803777#105#169#0(6@67"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m317803696#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)317803777#274#127#0(6@67"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m317803696#24#0#24#0#0"0(22@52"'UIButton' may not respond to '-setBackgroundImage:'317803777#626#134#0(6@67"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m317803696#24#0#24#0#26"'*' may not respond to '*'0(0#0#67"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m4300911832#2085"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgView.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgView.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/../ProgView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableAppDelegate.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803754.021408
+e317803756.304532
+r0
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableAppDelegate.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m:10:
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h:12: error: expected specifier-qualifier-list before 'ProgView'
+lSLF07#2@90"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m317803754#317803756#0(258"In file included from /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m:10:/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h:12: error: expected specifier-qualifier-list before 'ProgView'1(4@51"Expected specifier-qualifier-list before 'ProgView'317803756#109#149#2(7@104"In file included from /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m317803756#18446744073709551615#0#0(6@82"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m317802302#10#0#10#0#0"0(13@140"Expected specifier-qualifier-list before 'ProgView' in /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h317803756#18446744073709551615#0#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h317803564#12#0#12#0#0"0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h317803564#12#0#12#0#19"expected * before *0(0#0#82"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m4300911832#2115"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableAppDelegate.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableAppDelegate.o1#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableViewController.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803756.304764
+e317803756.852991
+r0
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableViewController.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:9:
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h:12: error: expected specifier-qualifier-list before 'ProgView'
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m: In function '-[ProgrammableViewController loadView]':
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: 'UIImage' may not respond to '-stretchableImageWithLeftCapWidth:topCapHeight:forState:'
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: (Messages without a matching method signature
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: will be assumed to return 'id' and accept
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: '...' as arguments.)
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: 'UIButton' may not respond to '-setBackgroundImage:'
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m: In function '-[ProgrammableViewController buttonPressed:]':
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:34: error: 'nextView' undeclared (first use in this function)
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:34: error: (Each undeclared identifier is reported only once
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:34: error: for each function it appears in.)
+o/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:35: error: 'ProgView' undeclared (first use in this function)
+lSLF07#2@93"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803756#317803756#0(1867"In file included from /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:9:/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h:12: error: expected specifier-qualifier-list before 'ProgView'/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m: In function '-[ProgrammableViewController loadView]':/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: 'UIImage' may not respond to '-stretchableImageWithLeftCapWidth:topCapHeight:forState:'/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: (Messages without a matching method signature/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: will be assumed to return 'id' and accept/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: '...' as arguments.)/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:24: warning: 'UIButton' may not respond to '-setBackgroundImage:'/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m: In function '-[ProgrammableViewController buttonPressed:]':/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:34: error: 'nextView' undeclared (first use in this function)/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:34: error: (Each undeclared identifier is reported only once/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:34: error: for each function it appears in.)/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m:35: error: 'ProgView' undeclared (first use in this function)6(4@51"Expected specifier-qualifier-list before 'ProgView'317803756#111#149#2(7@107"In file included from /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803756#18446744073709551615#0#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803699#9#0#9#0#0"0(13@140"Expected specifier-qualifier-list before 'ProgView' in /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h317803756#18446744073709551615#0#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h317803564#12#0#12#0#0"0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.h317803564#12#0#12#0#19"expected * before *0(22@87"'UIImage' may not respond to '-stretchableImageWithLeftCapWidth:topCapHeight:forState:'317803756#401#187#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803699#24#0#24#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)317803756#588#145#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803699#24#0#24#0#0"0(22@52"'UIButton' may not respond to '-setBackgroundImage:'317803756#994#152#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803699#24#0#24#0#26"'*' may not respond to '*'0(4@50"'nextView' undeclared (first use in this function)317803756#1293#148#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803699#34#0#34#0#43"'*' undeclared (first use in this function)0(4@50"'ProgView' undeclared (first use in this function)317803756#1719#148#0(6@85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m317803699#35#0#35#0#43"'*' undeclared (first use in this function)0(0#0#85"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m4300911832#2121"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgrammableViewController.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProgrammableViewController.o1#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/ProxyTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/ProxyTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/Reachability.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803765.232909
+e317803765.855841
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/Reachability.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m317803765#317803765#0(0"0(0#0#75"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m4300911832#2097"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Reachability.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonBase.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803777.175456
+e317803777.238610
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonBase.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m317803777#317803777#0(0"0(0#0#78"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m4300911832#2098"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonBase.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonParser.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803777.238724
+e317803777.380155
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonParser.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m317803777#317803777#0(0"0(0#0#80"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m4300911832#2102"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonParser.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonWriter.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803777.380262
+e317803777.497140
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m317803777#317803777#0(0"0(0#0#80"/Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m4300911832#2102"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/json/SBJsonWriter.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/StressTests.o /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/Tests/StressTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/main.o /Users/charleschen/Dropbox/Programs/Programmable/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803753.941225
+e317803756.354918
+r1
+xCompileC
+xbuild/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/main.o
+x/Users/charleschen/Dropbox/Programs/Programmable/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/charleschen/Dropbox/Programs/Programmable/main.m317803753#317803756#0(0"0(0#0#55"/Users/charleschen/Dropbox/Programs/Programmable/main.m4300911832#2069"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -include /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch -c /Users/charleschen/Dropbox/Programs/Programmable/main.m -o /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.xib
+s317803718.511851
+e317803720.082915
+r1
+xCompileXIB
+x/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.xib
+lSLF07#2@31"CompileXIB Classes/ProgView.xib317803718#317803720#0(0"0(0#0#69"/Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.xib4300911832#521"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/ProgView.nib /Users/charleschen/Dropbox/Programs/Programmable/Classes/ProgView.xib0#
+
+CCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/Classes/asi/../ProgView.xib
+r0
+
+CCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/MainWindow.xib
+s317803702.178930
+e317803718.514108
+r1
+xCompileXIB
+x/Users/charleschen/Dropbox/Programs/Programmable/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317803702#317803718#0(0"0(0#0#63"/Users/charleschen/Dropbox/Programs/Programmable/MainWindow.xib4300911832#517"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/MainWindow.nib /Users/charleschen/Dropbox/Programs/Programmable/MainWindow.xib0#
+
+CCompileXIB /Users/charleschen/Dropbox/Programs/Programmable/ProgrammableViewController.xib
+s317803702.410901
+e317803718.415574
+r1
+xCompileXIB
+x/Users/charleschen/Dropbox/Programs/Programmable/ProgrammableViewController.xib
+lSLF07#2@41"CompileXIB ProgrammableViewController.xib317803702#317803718#0(0"0(0#0#79"/Users/charleschen/Dropbox/Programs/Programmable/ProgrammableViewController.xib4300911832#549"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/ProgrammableViewController.nib /Users/charleschen/Dropbox/Programs/Programmable/ProgrammableViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/Programmable.app/greenButton.png greenButton.png
+s317803718.415813
+e317803718.984788
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Programmable.app/greenButton.png
+xgreenButton.png
+lSLF07#2@20"Copy greenButton.png317803718#317803718#0(0"0(0#0#64"/Users/charleschen/Dropbox/Programs/Programmable/greenButton.png4300911832#494"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/charleschen/Dropbox/Programs/Programmable/greenButton.png /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app0#
+
+CGenerateDSYMFile /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app.dSYM /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Programmable
+r0
+
+CLd /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Programmable normal i386
+r0
+
+CProcessInfoPlistFile /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Info.plist Programmable-Info.plist
+s317803701.953004
+e317803702.178764
+r1
+xProcessInfoPlistFile
+x/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Info.plist
+xProgrammable-Info.plist
+lSLF07#2@31"Process Programmable-Info.plist317803702#317803702#0(0"0(0#0#72"/Users/charleschen/Dropbox/Programs/Programmable/Programmable-Info.plist4300911832#524"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Programmable-Info.plist -genpkginfo /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app/Info.plist0#
+
+CProcessPCH /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch.gch Programmable_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317803720.113352
+e317803753.940988
+r1
+xProcessPCH
+x/var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch.gch
+xProgrammable_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Programmable_Prefix.pch317803720#317803753#0(0"0(0#0#72"/Users/charleschen/Dropbox/Programs/Programmable/Programmable_Prefix.pch4300911832#1946"    cd /Users/charleschen/Dropbox/Programs/Programmable    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-generated-files.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-own-target-headers.hmap -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-all-target-headers.hmap -iquote /Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/Programmable-project-headers.hmap -F/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator -I/Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/include -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources/i386 -I/Users/charleschen/Dropbox/Programs/Programmable/build/Programmable.build/Debug-iphonesimulator/Programmable.build/DerivedSources -c /Users/charleschen/Dropbox/Programs/Programmable/Programmable_Prefix.pch -o /var/folders/t4/t4cT8sM+GTK0XN+ulRfnYU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Programmable_Prefix-gtbvthiwmimbxbdygexuosccuxup/Programmable_Prefix.pch.gch0#
+
+CTouch /Users/charleschen/Dropbox/Programs/Programmable/build/Debug-iphonesimulator/Programmable.app
+r0
+
